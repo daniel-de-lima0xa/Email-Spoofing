@@ -1,6 +1,6 @@
 # Executor SendEmail
 
-The Executor SendEmail is a command-line utility for sending emails from the terminal. It provides a simple interface for configuring email sending parameters.
+SendEmail Executor is a command-line utility for sending emails from the terminal. It provides a simple interface for configuring email sending parameters. In it we can perform email poisoning technique
 
 ## Requirements
 
