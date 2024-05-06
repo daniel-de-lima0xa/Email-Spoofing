@@ -39,6 +39,11 @@ Here are some common options you can use with the `sendemail` command:
 ## Example
 `sendemail -f "sender@example.com" -t "recipient@example.com" -s smtp.example.com:587 -xu your_username@gmail.com -xp your_password -u "Subject" -m "Message body"`
 
+## Demo
+
+![Email Spoofing](https://github.com/daniel-de-lima0xa/Email-Spoofing/assets/59209081/9309d8b3-6f60-4cb5-be40-73eea8d8360b)
+
+
 
 
 
